@@ -1,0 +1,188 @@
+body{
+	background-color: #f1f6f4;
+	font-family: CeraPRO;
+}
+div{
+	margin-left: 250px;
+	margin-right: 200px;
+	margin-top: 50px;
+	height: 150px;
+	display: flex;
+}
+button{
+	margin-left: 0;
+	width: 20%;
+	height: 43px;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: white;
+	color: #03314b;
+	border: 3px solid #fff;
+}
+button:active{
+	border:2px solid #2ce080;
+}
+button:hover{
+	border:2px solid #2ce080;
+}
+
+.h2
+{
+	width: 50%;
+	height: 150px;
+	font-size: 50px;
+	font-weight: 700;
+	color: #03314b;
+	line-height: 1.25;
+	margin-top: 0;
+}
+.div{
+	width:45%;
+	margin-left: 60px;
+	margin-right: 50px;
+	margin-top: 10px;
+	color: #3a4649;
+	line-height: 1.4;
+	font-size: 23px;
+	font-weight: 400;
+}
+.h2:after{
+	content: "";
+    display: block;
+    width: 6.25rem;
+    height: .325rem;
+    margin-top: 1.5rem;
+    background: #2ce080;
+}
+.title{
+	margin-top: 50px;
+	color: #03314b;
+	font-size: 20px;
+	font-weight: 700;
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+mark{
+	color: #20ba68;
+	background-color: transparent;
+
+}
+.du{
+	margin-top: 20px;
+	margin-left: 250px;
+	margin-right: 250px;
+	display: flex;
+	height: 1400px;
+	flex-direction: column;
+}
+.bada{
+	margin-left: 0;
+	margin-top: 0;
+	width:100%;
+	height: 1000px;
+	display: flex;
+	flex-direction: column;
+}
+.pehla{
+	margin-left: 0;
+	margin-top: 0;
+	width: 100%;
+	height: 450px;
+	display: flex;
+}
+.first{
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	width: 300px;
+	height: 450px;
+	display: flex;
+	flex-direction: column;
+	border-radius: 3px;
+}
+.f{
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	width: 300px;
+	height: 300px;
+	border: 1px solid #bac8ce;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+.s{
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	width: 300px;
+	height: 150px;
+	border: 1px solid #bac8ce;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
+.h4{
+	margin-top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	margin-left: 10px;
+	line-height: 1.33;
+	color: #03314b;
+	height: 35px;
+	margin-right: 20px;
+}
+.author{
+	margin-left: 10px;
+	margin-top: 0;
+	width: 100%;
+	height: 20px;
+	font-size: 17px;
+	line-height: 1.5;
+	color: #6d787e;
+	font-weight: 700;
+}
+.second{
+	margin-left: 52px;
+	margin-top: 0;
+	margin-right: 0;
+	width: 300px;
+	height: 450px;
+	display: flex;
+	flex-direction: column;
+	border-radius: 3px;
+}
+.pehla1{
+	margin-top: 20px;
+}
+.icon{
+	display: block;
+    width: 80px;
+    height: 30px;
+    margin-left: 5px;
+    color: #1775fc;
+}
+.list{
+	font-size: 15px;
+    font-weight: 400;
+    line-height: 1.57;
+    color: #6d787e;
+    display: flex;
+    flex-wrap: wrap;
+    color: #3a4649;
+    list-style-type: none;
+    margin-left: 0;
+    width: 100%;
+    height: 40px;
+}
+.items{
+	margin-left:-30px;
+}
+.items1{
+	margin-left:30px;
+}
